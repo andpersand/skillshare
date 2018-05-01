@@ -1,0 +1,116 @@
+Lockpicking!!
+
+Disclaimers & Legal Notes
+What you do with this knowledge is up to you! I’m only here to share what I’ve learned. I do not recommend that you attempt to pick a lock that you do not own, as doing so is illegal. 
+
+Legal notes (DISCLAIMER: I am not a lawyer and I got this info from Wikipedia!!!!):
+In many countries, owning or purchasing a lockpick set is illegal. 
+In Canada, possession of lock picking tools, with the exception of key duplication tools, is legal. Lock pick tools fit in the same category as crowbars or hammers, meaning they are legal to possess and use unless they are used to commit a crime or if it is shown there was intention to commit a crime.
+In the USA, the legality of owning/purchasing lockpicking tools varies by state.
+Having a lockpicking set on you may be considered  ‘probable cause’
+
+------
+
+Resources:
+
+History of locks & security:
+https://99percentinvisible.org/episode/perfect-security/
+
+Schuyler Towne 
+http://schuylertowne.com/blog
+https://www.youtube.com/user/SchuylerTowne/videos
+
+How to pick a lock using hairpins:
+https://www.youtube.com/watch?v=cjuT_63Ioig
+
+------
+
+Brief history of locks
+https://99percentinvisible.org/episode/perfect-security/
+
+Mesopotamia / Egypt  - http://schuylertowne.com/research/rethinking-the-origins-of-the-lock
+
+Joseph Bramah - Bramah Safety Lock - 1770s London
+Was so confident that he published a pamphlet about how the lock worked
+Started a contest at his shop - pick this lock, bring it to me, and get 200 Guineas
+
+Jeremiah Chubb
+If a lockpicker lifted a pin up too high, a latching mechanism would trigger and the lock would seize up 
+To fix this, the owner of the lock would have to put a key into the opposite side and turn it in the opposite direction to reset the lock
+
+Lock Controversy of 1851
+The Great Exhibition in London - first international exhibition of manufactured locks
+
+A. C. Hobbs - locksmith that convinced banks to buy his better locks by picking their shitty locks
+Hobbs picked the Chubb lock in 25 minutes!! 
+Did this by triggering the latching mechanism to find out how far was too far - then picked the lock in the opposite side / direction to unset it. Went back and forth until he picked the lock.
+Hobbs also tried to pick the Bramah lock at the fair, but failed - so Bramah’s sons let him stay above the shop for 30 days and attempt to unlock the lock.
+It took Hobbs 52 hours over 14 days to unlock the Bramah Safety Lock
+
+All this to say - no such thing as perfect security! Even the locks we have now can be picked. 
+Since the Lock Controversy of 1851, we’ve never really completely regained security. 
+
+------
+
+Tumbler Locks
+
+https://s3.amazonaws.com/user-media.venngage.com/570438-b0a6a89a2727cc344c6f3c865ca41bfa.jpg
+
+These are probably the most common locks you’ll see, and it’s the only lock I’ll talk about today
+This is what you see in Skyrim, Oblivion, and Fallout 4 - Oblivion has the most accurate depiction out of these games
+
+There are a few parts in a tumbler lock:
+Springs
+Driver pins (top section - come in contact with springs)
+Key pins (bottom section - come in contact with key)
+Plug (this is the section that you put the key in, and the section that rotates - contains the key pins)
+Sheer/Shear line (this is the line you need to match with the break in the pins)
+
+The Goal in picking a Tumbler lock:
+Match the break in the pins with the shear line
+The Driver pins need to be above the shear line and the key pins need to be below it for the lock to open
+
+------
+
+Tools
+
+Picks
+Two subtypes : rakes and picks. 
+Picks are used to set individual pins
+Rakes are used to ‘rake’ the pins and attempt to set multiple pins in one go
+Torsion Wrench
+Used to slightly rotate the plug while you’re setting the pins - this helps to keep set pins in place while you’re working on others.
+Also used to rotate the plug and unlock the lock once you’ve set all the pins. If you’re applying pressure while setting pins, the lock will probably even pop open once you’ve set them all
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lockpicks.jpg/510px-Lockpicks.jpg 
+
+Tools L-R: 
+torsion wrench, "twist-flex" torsion wrench, offset diamond pick, ball pick, half-diamond pick, short hook, medium hook, saw (or "L") rake, snake (or "C") rake.
+
+------
+
+Technique
+Example: https://youtu.be/mO3mMYwKkKs?t=3m30s
+
+Note: all of the directions are relative - you might like to hold the lock differently! The directions below are given assuming that you’re holding the lock so that the springs are in the upper section and the key chamber is in the lower section. 
+
+1. Pick your pick! Insert into the top section of the plug
+2. Pick your wrench! Insert the torsion wrench into bottom (or top) section of the plug and position it so that you can rotate the plug. You may need to try using different sizes in order to find which wrench works best for you and your lock.
+NOTE: you will need to rotate the plug in the same direction you would rotate the key. The plug will generally rotate more in this direction, so you can test it out with your torsion wrench.
+3. Test the pins by pushing up with the pick - try to figure out how many pins there are, or even just how far back they go.
+4. Select a pin and attempt to set it! You’ll need to simultaneously apply light pressure on the torsion wrench. 
+You’ll know a pin is set if it doesn’t fall down after you stop pushing with the pick.
+5. Continue to set pins until they’re all set. 
+A pin may occasionally fall out of place while you’re setting another pin. No worries - just get it back in place when you can.
+6. Once all the pins are set, rotate the torsion wrench to unlock the lock. If you’ve been applying pressure while setting pins, it’s likely that the lock will simply pop open after you’ve set all the pins.
+
+Congratulations! You’re a badass!
+
+If you don’t unlock it on your first try, don’t worry! Lockpicking can take a lot of time (and cussin’), even once you’ve picked 100+ locks.
+
+
+
+
+
+
+
