@@ -48,8 +48,8 @@
 
 ### Picks
 - Two subtypes: **rakes** and **picks**
--- **Picks** are used to set individual pins
--- **Rakes** are used to 'rake' the pins and attempt to set multiple pins in one go
+    - **Picks** are used to set individual pins  
+    - **Rakes** are used to 'rake' the pins and attempt to set multiple pins in one go  
 
 ### Torsion (or Tension) Wrench
 - Used to slightly rotate the plug while you're setting the pins
