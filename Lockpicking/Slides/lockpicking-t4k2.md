@@ -1,6 +1,4 @@
 % Lockpicking 101
-% Thursday 4 Knowledge #2 (!!!!!)
-% <3 Thanks for coming! I love you! <3 
 
 ------------------
 
